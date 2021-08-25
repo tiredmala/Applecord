@@ -1,0 +1,8 @@
+{
+    "name": "Applecord",
+    "description": "Discord theme inspired in Apple's UI design",
+    "version": "0.7",
+    "author": "Malasangre#4444",
+    "theme": "applecord.css",
+    "license": "MIT"
+}
