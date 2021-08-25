@@ -1,4 +1,4 @@
-/**
+/*
 * @name Applecord
 * @author Malasangre#4444
 * @description Discord theme inspired in Apple's UI design
@@ -7,6 +7,8 @@
 * @version 0.7
 */
 
+@import url(https://tiredmala.github.io/Applecord/main/applebase.css);
+
 /* Customize roundness of things and amount of blur */
 :root{
   --appledefaultbradius:6px;
@@ -14,5 +16,3 @@
   --applebradius3:10px;
   --applebluramount:25px;
 }
-
-@import url(https://tiredmala.github.io/Applecord/main/applebase.css);
